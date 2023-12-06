@@ -1,1 +1,1 @@
-# DataScienceIBM projects
+# DataScience projects
